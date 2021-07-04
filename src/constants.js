@@ -1,4 +1,4 @@
-const LIMIT = 50;
+const LIMIT = 100;
 
 module.exports = {
     LIMIT,
